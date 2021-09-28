@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hello 👋🏻 World, I'm Matt Ziminski!</h1>
-<h3 align="center">A CS 👨🏻‍🎓 Undergrad and a passionate Geospatial 🌎 Data Science/Applied Machine Learning.</h3>
+<h3 align="center">A CS 👨🏻‍🎓 Undergrad and a passionate Geospatial 🌎 Data Science/Applied Machine Learning Enthusiast.</h3>
 
 <hr>
 <h3 align="left">What's up with me...</h3>
