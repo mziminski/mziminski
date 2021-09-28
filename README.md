@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [mziminski.github.io/](https://mziminski.github.io/)
 
-- 💬 Ask me anything about **Machine Learning and/or (Spatial) Data Science**
+- 💬 Ask me about **Machine Learning and/or (Spatial) Data Science**
 
 - ⚡ Fun fact **My friends tell me that I"m funny.**
 
